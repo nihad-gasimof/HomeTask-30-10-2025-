@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Labtask(30.10.25)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FE5B73-3198-4ACB-867A-DE011D0795C6}|Labtask(30.10.25)\\Labtask(30.10.25).csproj|c:\\users\\nihad\\onedrive\\desktop\\labtask(30.10.25)\\labtask(30.10.25)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FE5B73-3198-4ACB-867A-DE011D0795C6}|Labtask(30.10.25)\\Labtask(30.10.25).csproj|solutionrelative:labtask(30.10.25)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FE5B73-3198-4ACB-867A-DE011D0795C6}|Labtask(30.10.25)\\Labtask(30.10.25).csproj|c:\\users\\nihad\\onedrive\\desktop\\labtask(30.10.25)\\labtask(30.10.25)\\decimalextensionsmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FE5B73-3198-4ACB-867A-DE011D0795C6}|Labtask(30.10.25)\\Labtask(30.10.25).csproj|solutionrelative:labtask(30.10.25)\\decimalextensionsmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DecimalExtensionsMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Labtask(30.10.25)\\Labtask(30.10.25)\\DecimalExtensionsMethod.cs",
+              "RelativeDocumentMoniker": "Labtask(30.10.25)\\DecimalExtensionsMethod.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Labtask(30.10.25)\\Labtask(30.10.25)\\DecimalExtensionsMethod.cs",
+              "RelativeToolTip": "Labtask(30.10.25)\\DecimalExtensionsMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:15:12.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Labtask(30.10.25)\\Labtask(30.10.25)\\Program.cs",
+              "RelativeDocumentMoniker": "Labtask(30.10.25)\\Program.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\Labtask(30.10.25)\\Labtask(30.10.25)\\Program.cs",
+              "RelativeToolTip": "Labtask(30.10.25)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:43:41.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
